@@ -1,0 +1,50 @@
+{
+  "posts": [],
+  "comments": [],
+  "users": [
+    {
+      "name": "typicode",
+      "userName": "undefined",
+      "email": "user@example.com",
+      "body": "",
+      "id": 2
+    },
+    {
+      "name": "hi2",
+      "userName": "mabbb",
+      "email": "hiiiiiiii@j.com",
+      "body": "jkjkjkjkjkjkjk",
+      "id": 9,
+      "title": "hi"
+    },
+    {
+      "name": "testing2",
+      "userName": "testing",
+      "email": "22@h.com",
+      "body": "hihihihi",
+      "id": 10,
+      "title": "test2"
+    },
+    {
+      "name": "mabast",
+      "userName": "MMM",
+      "email": "mabast@gm.co",
+      "body": "sjdfklasjdflkasjdflksjdfls",
+      "id": 11
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Uncatagorized"
+    },
+    {
+      "name": "hey",
+      "id": 3
+    },
+    {
+      "name": "mabast",
+      "id": 4
+    }
+  ]
+}
